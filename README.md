@@ -1,28 +1,45 @@
-# Samiya Imran – Data Analyst Portfolio
+# 👋 Samiya Imran – Data Analyst Portfolio
 
-A modern portfolio built with Next.js showcasing my data analytics projects, dashboards, and technical skills.
+A modern portfolio showcasing my projects, technical skills, and experience in Data Analytics, SQL Server, Python, and Tableau.
 
-## Tech Stack
+## 🌐 Live Website
+
+https://your-portfolio-url.vercel.app
+
+## 🚀 Tech Stack
+
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
 - Framer Motion
+- SQL Server
+- Python
+- Tableau
 
-## Featured Project
+## 📊 Featured Project
+
 ### RetailPulse
-An end-to-end retail analytics project analyzing 293,569 orders using SQL Server, Python, and Tableau.
+An end-to-end retail analytics project analyzing **293,569 orders** and **$80.9M revenue** using SQL Server, Python, and Tableau.
 
-Key insights:
-- $80.9M revenue analyzed
-- 293,569 orders
-- 12 business KPIs
-- 54.8% late delivery rate identified
+**Key Insights**
+- 📈 $80.9M Revenue
+- 🛒 293,569 Orders
+- 📊 12 Business KPIs
+- 🚚 54.8% Late Delivery Rate
+- ⭐ 99,224 Customer Reviews
 
-## Live Website
+## ✨ Features
 
+- Responsive Design
+- Interactive Dashboard UI
+- Smooth Animations
+- Resume Download
+- Project Showcase
+- Contact Links
 
-## Contact
+## 📬 Connect
+
 - LinkedIn: https://linkedin.com/in/samiya-imrann
 - GitHub: https://github.com/imransamiya817-debug
 - Email: imransamiya817@gmail.com
