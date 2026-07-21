@@ -4,7 +4,7 @@ A modern portfolio showcasing my projects, technical skills, and experience in D
 
 ## 🌐 Live Website
 
-https://your-portfolio-url.vercel.app
+https://samiya-portfolio-lake.vercel.app
 
 ## 🚀 Tech Stack
 
